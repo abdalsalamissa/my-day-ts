@@ -73,3 +73,9 @@ export default defineConfig([
 ])
 
 ```
+
+## Development Workflow
+
+- Version control: Git
+- Remote repository: GitHub
+- Feature development: Feature branches
